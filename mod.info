@@ -1,0 +1,18 @@
+{mod
+	; name of your mod
+	{name "Multiplayer Rebalance"}
+	
+	; mod tags
+	;{tags "tanks" "vehicles" "infantry"}
+
+	; description of your mod
+	{desc "Silly changes to silly doctrines."}
+
+	; oldest game version your mod is still compatible with (when in doubt, enter the latest version you tested)
+	{minGameVersion "any"}
+	; latest game version your mod has been tested on and is compatible with (can only be few versions(10) ahead of current game version)
+	{maxGameVersion "any"}
+	
+	; You can specify dependencies in "require" blocks. 
+	;{require ""}
+}
